@@ -1,0 +1,12 @@
+{
+	"name": "se-stacked-items",
+	"version": "0.1.0",
+	"title": "SE Stacked Items",
+	"author": "MonoToast",
+    "factorio_version": "1.1",
+	"dependencies": [
+    	"base >= 1.1.79",
+		"stacked-items >= 0.1.0", 
+		"space-exploration >= 0.6.127"
+	]
+}
